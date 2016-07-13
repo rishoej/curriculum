@@ -437,4 +437,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Lien's Solution](https://github.com/lhphan/sketchpad) | [View in browser](https://lhphan.github.io/sketchpad/)
 * [Fred Rhae's Solution] (https://github.com/fredrhae/odin_project_javascript-jquery) | [View in browser] (http://htmlpreview.github.io/?https://github.com/fredrhae/odin_project_javascript-jquery/blob/master/index.html) 
 * [BJ Bryant's Solution](https://github.com/bryantbj/odin-etch-a-sketch) | [View in Browser](http://htmlpreview.github.io/?https://github.com/bryantbj/odin-etch-a-sketch/blob/master/index.html)
+* [Rishoej's Solution](https://github.com/rishoej/sketchpad-the-ordin-project) | [View in Browser](http://htmlpreview.github.io/?https://github.com/rishoej/sketchpad-the-ordin-project/blob/master/index.html)
 * Add your solution above this line!
